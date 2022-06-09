@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bank_DAAP/static/css/main.cb7c4c77.css",
+    "main.js": "/Bank_DAAP/static/js/main.fc0421fc.js",
+    "index.html": "/Bank_DAAP/index.html",
+    "main.cb7c4c77.css.map": "/Bank_DAAP/static/css/main.cb7c4c77.css.map",
+    "main.fc0421fc.js.map": "/Bank_DAAP/static/js/main.fc0421fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb7c4c77.css",
+    "static/js/main.fc0421fc.js"
+  ]
+}
